@@ -1,4 +1,4 @@
-Juts_Notes_NodeJs
+Just_Notes_NodeJs
 
 You need:
 Database (MongoDB)
