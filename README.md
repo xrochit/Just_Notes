@@ -43,6 +43,10 @@ GOOGLE_CLIENT_SECRET=YOUR_GOOGLE_CLIENT_SECRET_HERE
 GOOGLE_CALLBACK_URL=http://localhost:5000/google/callback
 ```
 
+## Usage
+
+Once the server is running, open your browser and go to http://localhost:5000 to access the application. You will need to log in using your Google account.
+
 ## Screenshots
 
 - [Homepage](#homepage)
