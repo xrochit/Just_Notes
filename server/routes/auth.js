@@ -43,7 +43,7 @@ router.get(
 
 // Retrieve user data
 router.get(
-  "/google/callback",
+  "https://just-notes.onrender.com/google/callback",
   passport.authenticate("google", {
     failureRedirect: "/login-failure",
     successRedirect: "/dashboard",
