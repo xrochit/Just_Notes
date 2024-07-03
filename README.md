@@ -10,6 +10,7 @@ A simple note-taking application built with Node.js, MongoDB, and Google OAuth f
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Demo](#demo)
 
 ## Installation
 
@@ -56,3 +57,5 @@ Once the server is running, open your browser and go to http://localhost:5000 to
 - [Dashboard](#dashboard)
 
   ![image](https://github.com/xrochit/Just_Notes/assets/91835342/ff787ce2-e3d7-4bc8-9562-3621462c5f72)
+
+## Demo - https://just-notes.onrender.com
